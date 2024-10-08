@@ -1,3 +1,10 @@
+# EVERYTHING HERE IS IN PROGRESS RIGHT NOW
+
+
+...
+
+
+
 # Web Tech Stack
 
 ## Front End
